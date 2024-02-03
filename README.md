@@ -22,11 +22,11 @@
 
 
 Ref:
-https://www.baeldung.com/java-10-overview
-https://www.digitalocean.com/community/tutorials/java-10-features
-https://www.happycoders.eu/java/java-10-features/   (this is really nice, read it fully)
-https://www.tutorialspoint.com/java10/java10_overview.htm
-https://www.tatvasoft.com/blog/top-10-java-10-feature-listing/
-https://howtodoinjava.com/java10/java10-features/
-https://www.studytonight.com/java-10/java-10-features-and-updates
-https://javagoal.com/java-10-features/
+- https://www.baeldung.com/java-10-overview
+- https://www.digitalocean.com/community/tutorials/java-10-features
+- https://www.happycoders.eu/java/java-10-features/   (this is really nice, read it fully)
+- https://www.tutorialspoint.com/java10/java10_overview.htm
+- https://www.tatvasoft.com/blog/top-10-java-10-feature-listing/
+- https://howtodoinjava.com/java10/java10-features/
+- https://www.studytonight.com/java-10/java-10-features-and-updates
+- https://javagoal.com/java-10-features/
