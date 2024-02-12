@@ -19,3 +19,10 @@ No runtime overhead. As compiler infers the type based on value provided, there 
 No dynamic type change. Once type of local variable is inferred it cannot be changed.
 
 Complex boilerplate code can be reduced using local variable type inference.
+
+
+https://pradeesh-kumar.medium.com/limitations-of-local-variable-type-inference-in-java-81d2c0e6b6bb
+
+Array initialization is not allowed without specifying its type during the initialization.
+
+In Java 10,var was limited only to local variables. Java 11 expanded the scope of the var to Lambda arguments.

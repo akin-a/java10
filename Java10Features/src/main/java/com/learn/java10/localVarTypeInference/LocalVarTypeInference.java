@@ -23,6 +23,9 @@ public class LocalVarTypeInference {
 		
 		var host = map.get(2000);
 		System.out.println(host.length());  
+		
+		var emojiSmilingHeart = 0x1F60D;
+		System.out.println(Character.toString(emojiSmilingHeart));
 	}
 	
 	private static void methodTwo() {
